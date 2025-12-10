@@ -1,0 +1,7 @@
+# Raw Data Directory
+
+Place unmodified source datasets here (e.g., CSVs downloaded from FRED or other open data portals).
+Guidelines:
+- Keep files read-only after download to preserve provenance.
+- Document the source URL, access date, and any credentials used (if applicable) in a companion README or notebook cell.
+- Prefer original file names from the provider; add a short prefix if multiple versions exist (e.g., `fred_cpi_2024-01.csv`).
