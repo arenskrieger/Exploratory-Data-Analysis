@@ -1,0 +1,8 @@
+# Notebooks Directory
+
+Store exploratory data analysis notebooks here. Example workflow:
+1. Create a new notebook (e.g., `finance_overview.ipynb`).
+2. Import helpers from `src/eda_template.py` to load and visualize FRED series.
+3. Save generated charts to `../figures` to keep outputs under version control.
+
+Keep dataset-specific notes in the notebook metadata or in markdown cells to document your analytical steps.

@@ -1,0 +1,9 @@
+# Figures Directory
+
+Use this folder to store charts and plots generated during analysis.
+Recommended conventions:
+- Export static images (PNG/SVG) from notebooks or scripts.
+- Prefix filenames with the dataset or topic (e.g., `gdp_growth_trend.png`).
+- Include the date in filenames when relevant to track data vintages.
+
+Generated figures can be referenced in reports or shared summaries.

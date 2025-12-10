@@ -1,0 +1,7 @@
+# Processed Data Directory
+
+Use this folder for cleaned or engineered datasets generated from notebooks or scripts.
+Guidelines:
+- Write outputs with descriptive names that indicate the transformation (e.g., `cpi_features.parquet`, `market_returns_daily.csv`).
+- Store derived artifacts like summary tables, merged panels, or model-ready features here.
+- Record the upstream raw file(s), processing date, and key steps in notebook markdown or a small metadata file alongside the output.
